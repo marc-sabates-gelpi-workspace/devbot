@@ -1,0 +1,44 @@
+{
+  "weblogic_list_apps": [
+    "weblogic apps",
+    "list applications",
+    "status apps",
+    "deployed apps",
+    "what applications are deployed in weblogic",
+    "tell me about the applications"
+  ],
+  "jenkins_jobs_list": [
+    "list jenkins jobs",
+    "can you list all jobs in jenkins",
+    "Can you please give me all the existing jenkins jobs",
+    "give me the list of jobs in jenkins"
+  ],
+  "help": [
+    "help",
+    "can you tell me what you can do",
+    "what can you do",
+    "capabilities",
+    "option list",
+    "commands list"
+  ],
+  "goodbye": [
+    "goodbye"
+  ],
+  "apps_status": [
+    "server status",
+    "weblogic server status"
+  ],
+  "weblogic_deployments": [
+    "deployments",
+    "Deployments for",
+    "What are the deployments for"
+  ],
+  "sentence_POS_tagger": [
+    "analise the sentence",
+    "Can you analise the next sentence",
+    "analise the following phrase",
+    "Can you analise this phrase",
+    "POS of the sentence",
+    "POS of the phrase"
+  ]
+}
